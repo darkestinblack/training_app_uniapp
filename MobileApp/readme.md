@@ -1,5 +1,2 @@
-## 运动与饮食记录与计划App
-## 注册登录
-## 饮食日志 
-## 运动日志
-## 
+## body status recording app
+ 
