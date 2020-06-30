@@ -1,1 +1,2 @@
-# wx_miniprogram_pt_uniApp
+# body status recording app
+# structed by uniapp
