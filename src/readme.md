@@ -8,5 +8,4 @@
  2.$ npm i 
 ## License
 MIT
-## show
 
