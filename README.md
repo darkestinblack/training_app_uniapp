@@ -1,5 +1,10 @@
 # body status recording app
-# Installation
-##1.Hbuilder X 打开项目文件夹
-##2.npm i
-##3.运行-运行到内置浏览器
+简单的uniapp实现；  
+1.轮播的欢迎页  
+2.登录  
+3.身体状态信息展示  
+## Installation
+ 1.HBuilder X 打开  
+ 2.$ npm i 
+## License
+MIT
