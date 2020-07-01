@@ -9,7 +9,6 @@
 ## License
 MIT
 ## show
-<img alt="welcome pic" width="572" heght="1244" src="https://github.com/darkestinblack/training_app_uniapp/blob/master/static/Screenshot_20200701_104513_uni.UNI86150F7.jpg" />  
-![welcome pic](https://github.com/darkestinblack/training_app_uniapp/blob/master/static/Screenshot_20200701_104513_uni.UNI86150F7.jpg)  
-![body status](https://github.com/darkestinblack/training_app_uniapp/blob/master/static/Screenshot_20200701_104543_uni.UNI86150F7.jpg)  
-![body status detail](https://github.com/darkestinblack/training_app_uniapp/blob/master/static/Screenshot_20200701_104548_uni.UNI86150F7.jpg)  
+<img alt="welcome pic" width="572" heght="1244" src="https://github.com/darkestinblack/training_app_uniapp/blob/master/screenshoot/Screenshot_20200701_104513_uni.UNI86150F7.jpg" />  
+<img alt="body status" width="572" heght="1244" src="https://github.com/darkestinblack/training_app_uniapp/blob/master/screenshoot/Screenshot_20200701_104543_uni.UNI86150F7.jpg" />  
+<img alt="body status detail" width="572" heght="1244" src="https://github.com/darkestinblack/training_app_uniapp/blob/master/screenshoot/Screenshot_20200701_104548_uni.UNI86150F7.jpg" />  
