@@ -8,7 +8,7 @@
  2.$ npm i 
 ## License
 MIT
-## show
+## screenshot
 <div>
 <img alt="welcome pic" width="302" heght="646" src="https://github.com/darkestinblack/training_app_uniapp/blob/master/screenshoot/Screenshot_20200701_104513_uni.UNI86150F7.jpg" />
 <img alt="body status" width="302" heght="646" src="https://github.com/darkestinblack/training_app_uniapp/blob/master/screenshoot/Screenshot_20200701_104543_uni.UNI86150F7.jpg" />
