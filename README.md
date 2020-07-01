@@ -1,4 +1,4 @@
-# body status recording app
+# body status app
 简单的uniapp实现,安卓端可打包安装使用和H5可转码压缩部署。  
 1.轮播的欢迎页（bing 每日一图）  
 2.登录  
